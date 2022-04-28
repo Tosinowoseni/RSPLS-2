@@ -14,9 +14,9 @@ namespace RPSLS_CS
 
             RunGame game = new RunGame();
 
-            //Human tessa = new Human();
+            //Human Tosin = new Human();
 
-            //tessa.ChooseGesture();
+            //Tosin.ChooseGesture();
 
             //Robot robot = new Robot();
 
